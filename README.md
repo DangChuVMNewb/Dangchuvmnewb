@@ -1,5 +1,5 @@
 # 👋 Hi, I'm DangChuVM
-💻 Roblox Scripter | 🧠 Lua Developer | ☕ Java Learner  
+💻 Roblox Scripter | ☕ Java Learner  
 
 ---
 
